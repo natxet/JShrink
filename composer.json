@@ -1,0 +1,25 @@
+{
+	"name": "natxet/JShrink",
+	"version": "0.0.2",
+	"type": "library",
+	"description": "Minifying JS",
+	"keywords": ["js","minify"],
+	"homepage": "http://code.google.com/p/cssmin/",
+	"license": "MIT",
+	"authors": [
+		{
+			"email": "tedivm@tedivm.com"
+		}
+	],
+	"repositories": {
+        "Github": {
+            "vcs": {
+                "url": "git://github.com/natxet/JShirnk.git"
+		}
+	}
+},
+	"require": {
+		"php": ">=5.0"
+	}
+}
+
