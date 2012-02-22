@@ -1,6 +1,6 @@
 {
 	"name": "natxet/JShrink",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"type": "library",
 	"description": "Minifying JS",
 	"keywords": ["js","minify"],
