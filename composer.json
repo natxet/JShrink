@@ -8,18 +8,25 @@
 	"license": "MIT",
 	"authors": [
 		{
-			"email": "tedivm@tedivm.com"
+			"name": null,
+			"email": "tedivm@tedivm.com",
+			"homepage": null
 		}
 	],
 	"repositories": {
         "Github": {
             "vcs": {
                 "url": "git://github.com/natxet/JShirnk.git"
+			}
 		}
-	}
-},
+	},
 	"require": {
 		"php": ">=5.0"
+	},
+	"autoload": {
+		"psr-0": {
+			"JShrink": "src/"
+		}
 	}
 }
 
